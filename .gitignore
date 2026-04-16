@@ -1,0 +1,1 @@
+text .env config.ini venv/ node_modules/ __pycache__/ *.key *.pem .vscode/ .idea/
